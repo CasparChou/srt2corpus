@@ -37,7 +37,7 @@ parallel-corpus-separate-symbol| Custom your separate symbol/word  |`\n`
 
 ## Sample Result
 
-```json
+```
 { id: '16',
   startTime: '00:00:35,720',
   endTime: '00:00:39,500',
