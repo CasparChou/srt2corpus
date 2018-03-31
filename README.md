@@ -3,6 +3,11 @@
 ## What can srt2corpus do?
 It can help you to convert srt file into CN-? parallel corpus
 
+## Install
+```shell
+npm i srt2corpus
+```
+
 ## Usage
 
 ```js
