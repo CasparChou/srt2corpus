@@ -1,23 +1,51 @@
 {
-  "name": "srt2corpus",
-  "version": "1.0.0",
-  "description": "This is a tool for converting srt file into plain-text corpus",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "git+https://github.com/CasparChou/srt2corpus.git",
+  "_id": "srt2corpus@1.0.0",
+  "_inBundle": false,
+  "_location": "/srt2corpus",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/CasparChou/srt2corpus.git"
+    "raw": "git+https://github.com/CasparChou/srt2corpus",
+    "rawSpec": "git+https://github.com/CasparChou/srt2corpus",
+    "saveSpec": "git+https://github.com/CasparChou/srt2corpus.git",
+    "fetchSpec": "https://github.com/CasparChou/srt2corpus.git",
+    "gitCommittish": "alpha"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/CasparChou/srt2corpus.git#6818c81eba356758571cd855b562f7b38b5b08fc",
+  "_spec": "git+https://github.com/CasparChou/srt2corpus",
+  "_where": "/root/Projects/corpus/node",
+  "author": {
+    "name": "Caspar Chou"
+  },
+  "bugs": {
+    "url": "https://github.com/CasparChou/srt2corpus/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is a tool for converting srt file into plain-text corpus",
+  "homepage": "https://github.com/CasparChou/srt2corpus#readme",
   "keywords": [
     "corpus",
     "subtitles"
   ],
-  "author": "Caspar Chou",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CasparChou/srt2corpus/issues"
+  "main": "index.js",
+  "name": "srt2corpus",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasparChou/srt2corpus.git"
   },
-  "homepage": "https://github.com/CasparChou/srt2corpus#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "chinese-conv": "^1.0.1",
+    "subtitles-parser": "0.0.2"
+  }
 }
