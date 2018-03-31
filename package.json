@@ -1,0 +1,23 @@
+{
+  "name": "srt2corpus",
+  "version": "1.0.0",
+  "description": "This is a tool for converting srt file into plain-text corpus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CasparChou/srt2corpus.git"
+  },
+  "keywords": [
+    "corpus",
+    "subtitles"
+  ],
+  "author": "Caspar Chou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CasparChou/srt2corpus/issues"
+  },
+  "homepage": "https://github.com/CasparChou/srt2corpus#readme"
+}
