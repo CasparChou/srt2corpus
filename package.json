@@ -43,7 +43,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "chinese-conv": "^1.0.1",
     "subtitles-parser": "0.0.2"
